@@ -4,10 +4,11 @@
 
 I'm a Full Stack Developer whith MERN stack, and I also have a background in graphic design, passionate about technology and innovation, I really enjoy working in a team, I am motivated by new challenges.
 
-My last personal proyect:
-<p>
-  <a href="https://la-vin-nails-app.fly.dev/">🌟APP WEB: La Vin Nails </a>
-</p>
+<br>
+
+<span>
+<h2>My last personal proyect:</h2> <a href="https://la-vin-nails-app.fly.dev/">🌟APP WEB: La Vin Nails </a>
+</span>
 
 
 <h4>📫 You can find me here</h4>
