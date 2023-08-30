@@ -1,4 +1,11 @@
-### Hi there 👋
+![me](https://res.cloudinary.com/duoshgr3h/image/upload/v1693405871/Readme_Github_t7kt9p.png)
+
+### Hi there 👋 I'am Feliciano Ojeda Ruiz
+
+I'm a Full Stack Developer whith MERN stack, and I also have a background in graphic design, passionate about technology and innovation, I really enjoy working in a team, I am motivated by new challenges.
+
+
+
 
 <!--
 **FeliOjedaRuiz/FeliOjedaRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
