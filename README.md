@@ -1,4 +1,4 @@
-![me](https://res.cloudinary.com/duoshgr3h/image/upload/v1693405871/Readme_Github_t7kt9p.png)
+![me](https://res.cloudinary.com/duoshgr3h/image/upload/v1693406498/Readme_Github_rounded_ejefrk.png)
 
 ### Hi there 👋 I'am Feliciano Ojeda Ruiz
 
