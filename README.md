@@ -6,7 +6,7 @@ I'm a Full Stack Developer whith MERN stack, and I also have a background in gra
 
 <h4>📫 You can find me here</h4>
   <a href="https://www.linkedin.com/in/feliciano-ojeda-ruiz/">
-    <img classname="rounded" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:feliojedaruiz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
