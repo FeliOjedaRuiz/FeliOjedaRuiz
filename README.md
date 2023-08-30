@@ -7,8 +7,10 @@ I'm a Full Stack Developer whith MERN stack, and I also have a background in gra
 <br>
 
 <span>
-<h2>My last personal proyect:</h2> <a href="https://la-vin-nails-app.fly.dev/">🌟APP WEB: La Vin Nails </a>
+<h4>🧑‍💻 My last personal proyect: <a href="https://la-vin-nails-app.fly.dev/"> ⚡APP WEB: La Vin Nails </a></h4> 
 </span>
+
+<br>
 
 
 <h4>📫 You can find me here</h4>
