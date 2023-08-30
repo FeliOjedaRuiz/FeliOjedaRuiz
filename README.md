@@ -4,6 +4,12 @@
 
 I'm a Full Stack Developer whith MERN stack, and I also have a background in graphic design, passionate about technology and innovation, I really enjoy working in a team, I am motivated by new challenges.
 
+My last personal proyect:
+<p>
+  <a href="https://la-vin-nails-app.fly.dev/">🌟APP WEB: La Vin Nails </a>
+</p>
+
+
 <h4>📫 You can find me here</h4>
   <a href="https://www.linkedin.com/in/feliciano-ojeda-ruiz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -63,7 +69,14 @@ I'm a Full Stack Developer whith MERN stack, and I also have a background in gra
 
 <br>
 
-<h4>💡 Projects</h4>
+<h4>💡 Ironhack Projects</h4>
+
+<p>
+  <a href="https://feliojedaruiz.github.io/Proyecto-1/">🌟 Canvas Game:  Pókemon Smash</a>
+</p>
+<p>
+  <a href="https://github.com/FeliOjedaRuiz/the-commander">🌟 React app:  The Commander</a>
+</p>
 
 
 
